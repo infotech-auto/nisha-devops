@@ -1,3 +1,2 @@
 I am learning git
-This is very interesting
-I am adding new lines 
+This is very interesting 
